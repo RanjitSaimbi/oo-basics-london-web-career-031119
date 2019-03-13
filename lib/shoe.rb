@@ -3,6 +3,6 @@ class Shoe
     @brand = brand 
   end 
   
-  attr_accessor :author, :page_count, :genre
+  attr_accessor :color, :size, :material, :condition
   
 end 
